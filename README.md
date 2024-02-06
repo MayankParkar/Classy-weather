@@ -11,13 +11,13 @@ This customizable app uses an API to fetch up-to-date weather data for the next 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/react-travel-list.git
+git clone https://github.com/<your-username>/Classy-weather.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd react-travel-list
+cd Classy-weather
 ```
 
 3. Install dependencies:
